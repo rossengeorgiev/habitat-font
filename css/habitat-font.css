@@ -8,32 +8,34 @@
 
 @font-face {
     font-family: 'HabitatFont';
-    src: url('../font/habitat-font.eot');
-    src: url('../font/habitat-font.eot?') format('eot'), url('../font/habitat-font.woff') format('woff'), url('../font/habitat-font.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+    src: url('../font/HabitatFont.eot');
+    src: url('../font/HabitatFont.eot?#iefix') format('embedded-opentype'),
+        url('../font/HabitatFont.woff') format('woff'),
+        url('../font/HabitatFont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 [class^="icon-"],
 [class*=" icon-"] {
-  font-family: HabitatFont;
-  font-weight: normal;
-  font-style: normal;
-  text-decoration: inherit;
-  display: inline;
-  width: auto;
-  height: auto;
-  line-height: normal;
-  vertical-align: baseline;
-  background-image: none !important;
-  background-position: 0% 0%;
-  background-repeat: repeat;
+    font-family: HabitatFont;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: inherit;
+    display: inline;
+    width: auto;
+    height: auto;
+    line-height: normal;
+    vertical-align: baseline;
+    background-image: none !important;
+    background-position: 0% 0%;
+    background-repeat: repeat;
 }
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
-  text-decoration: inherit;
-  display: inline-block;
-  speak: none;
+    text-decoration: inherit;
+    display: inline-block;
+    speak: none;
 }
 
 i.icon-habhub:before           { content: "\f000"; }
