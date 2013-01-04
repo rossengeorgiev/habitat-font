@@ -43,3 +43,5 @@
 .icon-locate-me:before        { content: "\f002"; }
 .icon-car:before              { content: "\f003"; }
 .icon-question:before         { content: "\f004"; }
+.icon-location:before         { content: "\f005"; }
+.icon-target:before           { content: "\f006"; }
