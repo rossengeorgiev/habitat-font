@@ -1,0 +1,45 @@
+/* Habitat Font
+ * icons specifically created for habitat websites and apps
+ *
+ * Inspired from Font Awesome @ https://github.com/FortAwesome
+ *
+ * Author: Rossen Georgiev @ http://rossengeorgiev.github.com/
+ */
+
+@font-face {
+    font-family: 'HabitatFont';
+    src: url('../font/habitat-font.eot');
+    src: url('../font/habitat-font.eot?') format('eot'), url('../font/habitat-font.woff') format('woff'), url('../font/habitat-font.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  font-family: HabitatFont;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
+  display: inline;
+  width: auto;
+  height: auto;
+  line-height: normal;
+  vertical-align: baseline;
+  background-image: none !important;
+  background-position: 0% 0%;
+  background-repeat: repeat;
+}
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  text-decoration: inherit;
+  display: inline-block;
+  speak: none;
+}
+
+i.icon-habhub:before           { content: "\f000"; }
+i.icon-compass:before          { content: "\f001"; }
+i.icon-locate-me:before        { content: "\f002"; }
+i.icon-question:before         { content: "\f003"; }
+i.icon-settings:before         { content: "\f004"; }
+i.icon-car:before              { content: "\f005"; }
+i.icon-station:before          { content: "\f006"; }
