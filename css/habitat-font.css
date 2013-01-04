@@ -38,10 +38,8 @@
     speak: none;
 }
 
-i.icon-habhub:before           { content: "\f000"; }
-i.icon-compass:before          { content: "\f001"; }
-i.icon-locate-me:before        { content: "\f002"; }
-i.icon-question:before         { content: "\f003"; }
-i.icon-settings:before         { content: "\f004"; }
-i.icon-car:before              { content: "\f005"; }
-i.icon-station:before          { content: "\f006"; }
+.icon-habhub:before           { content: "\f000"; }
+.icon-compass:before          { content: "\f001"; }
+.icon-locate-me:before        { content: "\f002"; }
+.icon-car:before              { content: "\f003"; }
+.icon-question:before         { content: "\f004"; }
