@@ -1,19 +1,19 @@
 # Habitat Icon Font
 
-A font of icons in vector format with HABing related icons.
-All scale independant, color-independant and slick.
+Icon font for high altitude bollooing apps.  
+All scale and color-independant!
 
 ## Contribute
 
-If you want to conribute glyphs to this font, you by all means welcome.
+If you want to conribute glyphs to this font, by all means you are welcome.  
 Just send me your glyph in SVG format (1024x1024px)
 
 ## Demo
 
-You can clone into the repo and run demo.html, which should display all
+You can clone into the repo and open `demo.html`, which should display all
 sympbols currently available.
 
-or [View here](https://github.com/rossengeorgiev/habitat-font/blob/master/demo.png)
+or [click here](https://github.com/rossengeorgiev/habitat-font/blob/master/demo.png).
 
 
 
