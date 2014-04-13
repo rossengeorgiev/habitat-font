@@ -1,5 +1,7 @@
 # Habitat Icon Font
 
+![showcase of icons](demo.png "showcase of icons").
+
 Icon font for high altitude bollooing apps.  
 All scale and color-independant!
 
@@ -13,7 +15,6 @@ Just send me your glyph in SVG format (1024x1024px)
 You can clone into the repo and open `demo.html`, which should display all
 sympbols currently available.
 
-or [click here](https://github.com/rossengeorgiev/habitat-font/blob/master/demo.png).
 
 
 
